@@ -5,4 +5,3 @@ while array.length > i do
  puts new_array.push(array[i]**2)
 i+=
 end
-end
